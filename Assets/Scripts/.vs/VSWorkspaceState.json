@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cutscene",
+    "\\Enemys",
+    "\\FinalScene",
+    "\\InitialText",
+    "\\Itens",
+    "\\Menu",
+    "\\Plataforms",
+    "\\Player",
+    "\\ProgressionBar"
+  ],
+  "SelectedNode": "\\FinalScene\\FinalScene.cs",
+  "PreviewInSolutionExplorer": false
+}
