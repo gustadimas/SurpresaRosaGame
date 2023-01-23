@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 478ae6bf48d2359499f8363e70d9b075
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7081787576687239606
+    second: Dora-sprite-PYLA-Sheet_0
+  - first:
+      213: -2032072232960210511
+    second: Dora-sprite-PYLA-Sheet_1
+  - first:
+      213: 1932840339818035567
+    second: Dora-sprite-PYLA-Sheet_2
+  - first:
+      213: 2992406525300521796
+    second: Dora-sprite-PYLA-Sheet_3
+  - first:
+      213: 6327107292900105595
+    second: Dora-sprite-PYLA-Sheet_4
+  - first:
+      213: -8662319414152468994
+    second: Dora-sprite-PYLA-Sheet_5
+  - first:
+      213: -3631973230876804854
+    second: Dora-sprite-PYLA-Sheet_6
+  - first:
+      213: 5850276440626086502
+    second: Dora-sprite-PYLA-Sheet_7
+  - first:
+      213: 3836621978390885594
+    second: Dora-sprite-PYLA-Sheet_8
+  - first:
+      213: -8464102606093027175
+    second: Dora-sprite-PYLA-Sheet_9
+  - first:
+      213: -3621749187549912776
+    second: Dora-sprite-PYLA-Sheet_10
+  - first:
+      213: 1267304549487657393
+    second: Dora-sprite-PYLA-Sheet_11
+  - first:
+      213: -6759655011582997486
+    second: Dora-sprite-PYLA-Sheet_12
+  - first:
+      213: -868094255947156505
+    second: Dora-sprite-PYLA-Sheet_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a733b740974260800000000000000
+      internalID: 7081787576687239606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c87c0211acc3e0800000000000000
+      internalID: -2032072232960210511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 144
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6936666c04d2da10800000000000000
+      internalID: 1932840339818035567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b391c51e9278920800000000000000
+      internalID: 2992406525300521796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d18197f866ec750800000000000000
+      internalID: 6327107292900105595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e874436249c780800000000000000
+      internalID: -8662319414152468994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 144
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a093cdbe693a89dc0800000000000000
+      internalID: -3631973230876804854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ca593d6b503150800000000000000
+      internalID: 5850276440626086502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f17fac5b6e3530800000000000000
+      internalID: 3836621978390885594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998fd554687798a80800000000000000
+      internalID: -8464102606093027175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 17
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83127828d46fcbdc0800000000000000
+      internalID: -3621749187549912776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c276f5ce569110800000000000000
+      internalID: 1267304549487657393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c0866c491e032a0800000000000000
+      internalID: -6759655011582997486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dora-sprite-PYLA-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e376b2afd8e3f3f0800000000000000
+      internalID: -868094255947156505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
