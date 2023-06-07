@@ -36,7 +36,6 @@ public class InitialText : MonoBehaviour
 
     private void Objective()
     {
-        
         image = true;
     }
 }
