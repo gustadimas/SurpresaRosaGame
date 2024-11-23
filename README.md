@@ -4,7 +4,7 @@ Um jogo desenvolvido por mim que tem como tema a conscientização sobre o autoe
 
 ## Objetivo do desenvolvimento do jogo
 
-Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final de semestre, do curso de Jogos Digitais no IFBA - Lauro de Freitas. Tendo como norteamento o tema transversal o Outubro Rosa, com o enfoque no **AutoExame das Mamas**.
+Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final de semestre, do curso de Jogos Digitais no IFBA - Lauro de Freitas. Tendo como norteamento o tema transversal o Outubro Rosa, com o enfoque no **Autoexame das Mamas**.
 
 ## Imagens do jogo
 
@@ -28,7 +28,7 @@ Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final de
 ![Image](./Docs/Images/Bart.png)
 
 - **A Depressão**
-  - A depressão materializada ira patrulhar as plataformas com o objetivo de aumentar o progresso do câncer.
+  - A depressão materializada irá patrulhar as plataformas com o objetivo de aumentar o progresso do câncer.
 
 
 ## Tecnologias utilizadas
