@@ -45,7 +45,7 @@ public class CutsceneADM : MonoBehaviour
 
         else
         {
-            SceneManager.LoadScene("ApartamentoSofia1");
+            SceneManager.LoadScene("Gameplay");
         }
 
         Invoke("ChangeImage", 7f);
